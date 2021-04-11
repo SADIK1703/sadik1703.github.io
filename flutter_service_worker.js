@@ -18,6 +18,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/download.jpg": "ff5c54313ac12ab0cddee6028446fbb0",
 "assets/assets/instagram.png": "4a8c23476a7c20c5bee2a752a6f96e9e",
+"assets/assets/logo/logo-icon-large.png": "af4bb7b7ec54e7d1a5738e7993df5d38",
 "assets/assets/twitter.jpg": "f09f8f01096088182a0d6c1754fe3333",
 "assets/assets/linkedin.png": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
 "assets/assets/kommunity.jpg": "f8b214bcc3ac600f370ca5096576099f",
